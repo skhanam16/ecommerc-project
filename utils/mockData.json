@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Alpha Tech Solutions",
+    "position": "Frontend Developer",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "jobLocation": "Melbourne"
+  },
+  {
+    "company": "GreenLeaf Marketing",
+    "position": "Marketing Coordinator",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "jobLocation": "Sydney"
+  },
+  {
+    "company": "Skyline Constructions",
+    "position": "Project Manager",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "jobLocation": "Brisbane"
+  },
+  {
+    "company": "NextGen Labs",
+    "position": "Backend Developer",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "jobLocation": "Perth"
+  },
+  {
+    "company": "BlueWave Finance",
+    "position": "Accountant",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "jobLocation": "Adelaide"
+  },
+  {
+    "company": "Creative Minds Studio",
+    "position": "Graphic Designer",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "jobLocation": "Canberra"
+  },
+  {
+    "company": "Urban Retail Group",
+    "position": "Store Manager",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "jobLocation": "Gold Coast"
+  }
+]
