@@ -21,8 +21,8 @@ const Login = () => {
 const navigate = useNavigate();
 const loginDemoUser = async () => {
       const data = {
-      "email": "test@test1.com",
-      "password": "secret123",
+      "email": "test@test.com",
+      "password": "12345678",
     }
   try {
     await customFetch.post('/auth/login', data);
